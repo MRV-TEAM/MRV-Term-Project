@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+\\TOLOL
 int MENU(){
     int pilih;
     cout<<"============== MENU =============="<<endl;
