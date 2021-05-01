@@ -1,0 +1,14 @@
+{
+    "editor.fontSize":13,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "vscode-icons",
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "*.txt": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp"
+    },
+}
